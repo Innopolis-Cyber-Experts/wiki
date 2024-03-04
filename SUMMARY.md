@@ -3,6 +3,7 @@
 * [Welcome!](README.md)
 * [❓ How to start?](how-to-start/README.md)
   * [0x00 - Essentials](how-to-start/0x00-essentials.md)
+  * [0x01 - Breaking codes](how-to-start/0x01-breaking-codes.md)
 * [🚩 CTF](ctf/README.md)
   * [General](ctf/general.md)
   * [Cryptography](ctf/cryptography.md)
