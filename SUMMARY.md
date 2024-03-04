@@ -1,6 +1,8 @@
 # Table of contents
 
 * [Welcome!](README.md)
+* [❓ How to start?](how-to-start/README.md)
+  * [0x00 - Essentials](how-to-start/0x00-essentials.md)
 * [🚩 CTF](ctf/README.md)
   * [General](ctf/general.md)
   * [Cryptography](ctf/cryptography.md)
@@ -25,7 +27,8 @@
   * [Networks](cyber-defense/networks.md)
   * [SIEM](cyber-defense/siem.md)
 * [🔬 Code & Exploit](code-and-exploit/README.md)
-  * [semgrep](code-and-exploit/semgrep.md)
+  * [Static Analyzers](code-and-exploit/static-analyzers/README.md)
+    * [semgrep](code-and-exploit/static-analyzers/semgrep.md)
 * [🐞 BugBounty](bugbounty/README.md)
   * [Reconnaissance & Enumeration](bugbounty/reconnaissance-and-enumeration.md)
 * [🛠️ DevSecOps](devsecops.md)

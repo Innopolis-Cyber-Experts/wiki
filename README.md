@@ -9,16 +9,11 @@ coverY: 0
 
 Welcome to the wiki of our club! Here you can find preparation resources, information on various areas of cybersecurity and club activities.
 
+You are new to cybersecurity field and do not know where to start? Check out this page:&#x20;
 
-
-Where to start:
-
-* [CTFs](ctf/)
-* [Offensive security, penetration testing, red teaming](offensive-security/)
-* [Code analysis & Exploit development](code-and-exploit/)
-* [Cyber defense](cyber-defense/)
-* [DevSecOps](devsecops.md)
-* [BugBounty](bugbounty/)
+{% content-ref url="how-to-start/" %}
+[how-to-start](how-to-start/)
+{% endcontent-ref %}
 
 Also check out Tatar OSINT mindset community (Russian language): [https://t.me/+dHYUturlVFo0MzIy](https://t.me/+dHYUturlVFo0MzIy)
 
