@@ -10,7 +10,7 @@ There are several common types of CTFs:
 
 An example of jeopardy CTF, running on CTFd platform:
 
-<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 You can find info about jeopardy CTF on relevant pages:
 

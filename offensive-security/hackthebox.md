@@ -6,6 +6,6 @@
 
 Our club has a team on HackTheBox (create join request and contact [club leader](https://t.me/magnummalum)):
 
-[https://app.hackthebox.com/teams/overview/5457](https://app.hackthebox.com/teams/overview/5457)
+{% embed url="https://app.hackthebox.com/teams/overview/5457" %}
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>

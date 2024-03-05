@@ -1,4 +1,4 @@
-# Cryptography
+# 🔐 Cryptography
 
 Where to learn:
 

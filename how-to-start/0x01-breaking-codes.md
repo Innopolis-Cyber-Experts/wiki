@@ -104,3 +104,10 @@ print("Ciphertext:", ciphertext)
 #### Breaking XOR cipher
 
 Cracking XOR can be difficult. If the key is long, the easiest way to crack it is to know part of the plaintext. For example, if image is encrypted, several first bytes are known (Magic Bytes)
+
+***
+
+## Practice
+
+### Task 1
+
