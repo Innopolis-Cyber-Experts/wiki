@@ -111,3 +111,39 @@ Cracking XOR can be difficult. If the key is long, the easiest way to crack it i
 
 ### Task 1
 
+Your first task is to break an encrypted message: "Vg gur zbfg pelcgb vf gur znva vqrn"
+
+This message was encrypted with Caesar cipher. Your tasks is to find the shift and decrypt the message.
+
+<details>
+
+<summary>Answer</summary>
+
+The answer is "**It the most crypto is the main idea**". \
+Shift is equal to 13
+
+You could use Python code from above to bruteforce the shift or use online tool like [CyberChef](https://gchq.github.io/CyberChef/#recipe=ROT13\(true,true,false,13\)\&input=SXQgdGhlIG1vc3QgY3J5cHRvIGlzIHRoZSBtYWluIGlkZWE)
+
+</details>
+
+### Task 2
+
+A mysterious message has been encoded using a simple XOR cipher. Your task is to decrypt the message and find the hidden flag. Here's the encoded message and a hint to get you started:
+
+**Encoded Message (hexadecimal):**
+
+```
+2a2d2d2c383b73311c2131163706250c3100263e
+```
+
+**Hint:**
+
+* The key used for encryption is a single character.
+
+<details>
+
+<summary>Answer</summary>
+
+The answer is "**inno{x0r\_brUtEfOrCe}**"
+
+</details>
