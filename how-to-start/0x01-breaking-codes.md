@@ -147,3 +147,9 @@ A mysterious message has been encoded using a simple XOR cipher. Your task is to
 The answer is "**inno{x0r\_brUtEfOrCe}**"
 
 </details>
+
+Want to learn more about **Cryptography**?
+
+{% content-ref url="../ctf/cryptography/" %}
+[cryptography](../ctf/cryptography/)
+{% endcontent-ref %}
