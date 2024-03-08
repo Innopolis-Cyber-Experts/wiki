@@ -10,13 +10,13 @@ There are several common types of CTFs:
 
 An example of jeopardy CTF, running on CTFd platform:
 
-<figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 You can find info about jeopardy CTF on relevant pages:
 
 * [Reverse engineering](reverse-engineering.md)
 * [Binary exploitation](binary-exploitation.md)
 * [Web exploitation](web-exploitation/)
-* [Cryptography](cryptography.md)
+* [Cryptography](cryptography/)
 * Forensics
 
