@@ -11,6 +11,6 @@ Useful resources:
 
 Where to practice:
 
-* [HackTheBox ](https://app.hackthebox.com/home)- join [our team](hackthebox.md)
+* [HackTheBox ](https://app.hackthebox.com/home)- join [our team](../ctf/general/hackthebox.md)
 * [TryHackMe](https://tryhackme.com/)
 * [VulnHub](https://www.vulnhub.com/)
