@@ -2,6 +2,7 @@
 
 Where to learn:
 
+* Lectures from Alexander Buchnev (ICE Club)
 * [https://cryptohack.org/](https://cryptohack.org/)
 * [https://cryptopals.com/](https://cryptopals.com/)
 * [https://crypto-kids20.forkbomb.ru/](https://crypto-kids20.forkbomb.ru/tasks/crybasic\_lovespace) (Russian)
