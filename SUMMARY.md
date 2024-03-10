@@ -37,7 +37,7 @@
 * [🔬 Code & Exploit](code-and-exploit/README.md)
   * [Static Analyzers](code-and-exploit/static-analyzers/README.md)
     * [semgrep](code-and-exploit/static-analyzers/semgrep.md)
-  * [🪚 Malware development](code-and-exploit/malware-development/README.md)
+  * [Malware development](code-and-exploit/malware-development/README.md)
     * [Introduction to MalDev in C++](code-and-exploit/malware-development/introduction-to-maldev-in-c++.md)
 * [🐞 BugBounty](bugbounty/README.md)
   * [Reconnaissance & Enumeration](bugbounty/reconnaissance-and-enumeration.md)
