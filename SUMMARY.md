@@ -31,6 +31,8 @@
     * [Weaponization](offensive-security/initial-access/weaponization.md)
     * [VBA Basics](offensive-security/initial-access/vba-basics.md)
     * [VBA in Word](offensive-security/initial-access/vba-in-word.md)
+    * [Sliver C2](offensive-security/initial-access/sliver-c2.md)
+    * [Downloading a EXE payload from VBA](offensive-security/initial-access/downloading-a-exe-payload-from-vba.md)
 * [🛡️ Cyber defense](cyber-defense/README.md)
   * [Networks](cyber-defense/networks.md)
   * [SIEM](cyber-defense/siem.md)
