@@ -10,7 +10,7 @@ Before you can actually start learning cybersecurity, some essentials should be 
 Here are some resources for you, if you want to cover this topics:
 
 * Arch installation (during it you will get good understanding, but it can be difficult) - [https://wiki.archlinux.org/title/installation\_guide](https://wiki.archlinux.org/title/installation\_guide)
-* Interactive Linux tutorial - [https://linuxjourney.com/](https://linuxjourney.com/)
+* Command line challenge - [https://cmdchallenge.com/](https://cmdchallenge.com/)
 
 
 
