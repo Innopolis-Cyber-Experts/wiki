@@ -235,6 +235,6 @@ Just clicking `main`, the decompiled code will be shown in `Decompiler` window:
 
 Want to learn more about Reverse Engineering?
 
-{% content-ref url="../ctf/reverse-engineering.md" %}
-[reverse-engineering.md](../ctf/reverse-engineering.md)
+{% content-ref url="../ctf/reverse-engineering/" %}
+[reverse-engineering](../ctf/reverse-engineering/)
 {% endcontent-ref %}

@@ -14,7 +14,7 @@ An example of jeopardy CTF, running on CTFd platform:
 
 You can find info about jeopardy CTF on relevant pages:
 
-* [Reverse engineering](reverse-engineering.md)
+* [Reverse engineering](reverse-engineering/)
 * [Binary exploitation](binary-exploitation.md)
 * [Web exploitation](web-exploitation/)
 * [Cryptography](cryptography/)
