@@ -201,13 +201,13 @@ This shouldn't be too hard: Just `File > New Project` , set the directory for pr
 
 Now, through the `File` menu, we can import our binary to analyze:
 
-<figure><img src="../.gitbook/assets/image (5).png" alt=""><figcaption><p>Importing file</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (5) (1).png" alt=""><figcaption><p>Importing file</p></figcaption></figure>
 
 ### Opening file and running analysis
 
 Now you can open file by double clicking on it in project and start analysis by clicking "Yes" in the popup:
 
-<figure><img src="../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (6) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### Locating the function
 

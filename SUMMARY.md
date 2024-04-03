@@ -14,6 +14,7 @@
       * [History of cryptography](ctf/cryptography/introduction/history-of-cryptography.md)
   * [⏪ Reverse engineering](ctf/reverse-engineering/README.md)
     * [Golang](ctf/reverse-engineering/golang/README.md)
+      * [Loops](ctf/reverse-engineering/golang/loops.md)
       * [Functions](ctf/reverse-engineering/golang/functions.md)
       * [Panic](ctf/reverse-engineering/golang/panic.md)
   * [🌐 Web exploitation](ctf/web-exploitation/README.md)
