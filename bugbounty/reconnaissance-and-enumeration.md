@@ -14,3 +14,11 @@ for url in $(cat urls.txt); do
     ffuf -w ~/Wordlists/SecLists/Discovery/Web-Content/common.txt -u $url/FUZZ >> all-subdirs.txt
 done
 ```
+
+
+
+### Using Osmedeus for automation
+
+{% embed url="https://www.osmedeus.org/" %}
+
+Osmedeus is a workflow engine for cybersecurity. It has several built-in pipelines and have a good integration with project-discovery tools
