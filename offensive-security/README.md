@@ -8,9 +8,12 @@ Useful resources:
 
 * [https://www.ired.team/](https://www.ired.team/)
 * [https://book.hacktricks.xyz/welcome/readme](https://book.hacktricks.xyz/welcome/readme)
+* [https://ppn.snovvcrash.rocks/pentest](https://ppn.snovvcrash.rocks/pentest)
 
 Where to practice:
 
 * [HackTheBox ](https://app.hackthebox.com/home)- join [our team](../ctf/general/hackthebox.md)
 * [TryHackMe](https://tryhackme.com/)
 * [VulnHub](https://www.vulnhub.com/)
+
+This section is mainained by [@magnummalum](https://t.me/magnummalum), and consists mainly of cheatsheets that can be used during engagements
